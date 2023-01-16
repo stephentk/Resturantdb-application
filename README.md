@@ -4,7 +4,7 @@ This is a Resturant database application,where a resturant information such as (
 
 The application can perform the following
 
-1)Create Vendors
+1)Create Vendors.
 2) Show all vendors
 3)Show a single vendor
 
