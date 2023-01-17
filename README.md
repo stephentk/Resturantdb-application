@@ -1,5 +1,4 @@
 # Resturantdb-application
-Based on project requirements, the following features are covered for this endpoint:
 This is a Resturant database application,where a resturant information such as (name,address,email,foodtype including the Ownername) can be inserted to the database
 
 The application can perform the following
