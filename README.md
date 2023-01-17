@@ -16,8 +16,6 @@ This project was bootstrapped with the following tools:
 2. [Typescript](https://www.typescriptlang.org/)
 3. [Node](https://nodejs.org/en/)
 4. [ExpressJs](https://expressjs.com/)
-5. [eslint linter](https://eslint.org/)
-6. [Prettier code formatter](https://prettier.io/)
 
 All of these dependencies required are listed in the package.json file. Use `npm install` on the command line.
 Environment variables are defined in a .env file. 
