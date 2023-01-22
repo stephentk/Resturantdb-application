@@ -1,5 +1,5 @@
 import express from "express"
-import { AdminRoutes,VendorRoutes} from "./routes"
+import { AdminRoutes,VendorRoutes} from "./routes";
 import bodyParser from "body-parser"
 import mongoose from "mongoose"
 import { MONGO_URL } from "./config"
